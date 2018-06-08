@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background: white;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.main{
+    text-align: center;
+    overflow: hidden;
+/*    float: left;*/
+    height: 100%;
+    
+}
+
+.main p{
+    font-size: 60px;
+    padding: 10%;
+    padding: 0;
+    color: red;
+    
+}
+
+.page1 .tps-wrapper{
+    background-image: url(../images/demo1.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+}
+.page2 .tps-wrapper{
+    background-image: url(../images/demo2.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+}
+.page3 .tps-wrapper{
+    background-image: url(../images/demo3.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+}
+.page4 .tps-wrapper{
+    background-image: url(../images/demo4.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+
+
+
+
